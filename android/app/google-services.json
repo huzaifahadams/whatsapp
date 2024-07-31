@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458863432298",
+    "project_id": "adams-whatsapp",
+    "storage_bucket": "adams-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458863432298:android:524b4fcb0ff25ce2133013",
+        "android_client_info": {
+          "package_name": "com.hav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryvFr_cLxm-aTh_9C4z2TOvpJ2Xm9IqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
